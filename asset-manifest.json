@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Startup-match/static/css/main.073c9b0a.css",
+    "main.js": "/Startup-match/static/js/main.b0b3b52e.js",
+    "index.html": "/Startup-match/index.html",
+    "main.073c9b0a.css.map": "/Startup-match/static/css/main.073c9b0a.css.map",
+    "main.b0b3b52e.js.map": "/Startup-match/static/js/main.b0b3b52e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b0b3b52e.js"
+  ]
+}
